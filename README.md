@@ -61,11 +61,3 @@ We welcome contributions from the community! If you'd like to contribute to this
 3. Make your changes and ensure that the code passes all tests.
 4. Commit your changes and push them to your fork.
 5. Submit a pull request detailing your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or support, please contact [email@example.com](mailto:email@example.com).
