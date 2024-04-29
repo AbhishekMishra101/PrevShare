@@ -1,7 +1,6 @@
 # Priv Share
-##Privacy Preserving Data Sharing Platform
+## Privacy Preserving Data Sharing Platform
 
-![Platform Logo](link_to_logo_image)
 
 ## Overview
 
